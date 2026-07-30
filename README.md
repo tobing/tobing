@@ -2,16 +2,6 @@
 
 ### IT professional specializing in infrastructure, with a growing interest in AI and automation
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40" style="display:inline-block;"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" style="display:inline-block;"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="40" style="display:inline-block;"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" style="display:inline-block;"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" style="display:inline-block;"></a>
-</p>
-
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
