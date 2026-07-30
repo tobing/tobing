@@ -4,22 +4,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=php" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" />
-</div>
-
+<table>
+<tr>
+<td>
+<img src="https://skillicons.dev/icons?i=azure" width="40"/>
+<img src="https://skillicons.dev/icons?i=docker" width="40"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="40"/>
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://skillicons.dev/icons?i=js" width="40"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="40"/>
+<img src="https://skillicons.dev/icons?i=linux" width="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+<img src="https://skillicons.dev/icons?i=php" width="40"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="40"/>
+<img src="https://skillicons.dev/icons?i=postman" width="40"/>
+<img src="https://skillicons.dev/icons?i=py" width="40"/>
+</td>
+</tr>
+</table>
 
 <!--
 <h3 align="left">Connect with me:</h3>
