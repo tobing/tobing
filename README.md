@@ -2,6 +2,12 @@
 
 ### IT professional specializing in infrastructure, with a growing interest in AI and automation
 
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,docker,gcp,git,js,jenkins,kubernetes,linux,mysql,php,postgres,postman,py" />
+</p>
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
