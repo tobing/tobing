@@ -1,5 +1,3 @@
-# Hi 👋, I'm Tobing
-
 ### IT professional specializing in infrastructure, with a growing interest in AI and automation
 
 <h3 align="left">Languages and Tools:</h3>
