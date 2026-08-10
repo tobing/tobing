@@ -1,5 +1,3 @@
-### IT guy specializing in infrastructure, with a growing interest in AI and automation
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
