@@ -13,12 +13,20 @@
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tobing&hide=php)](https://github.com/stats-organization/github-stats-extended) <br/>
 --->
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=tobing&layout=compact&langs_count=8&card_width=320">
-  <img
-    height="200"
-    align="center"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=tobing&layout=compact&langs_count=8&card_width=320"
-  />
-</a>
-
+<p >
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=tobing&layout=compact&langs_count=8&card_width=320">
+    <img
+      height="200"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=tobing&layout=compact&langs_count=8&card_width=320"
+    />
+  </a>  
+  
+  <a href="https://streak-stats.demolab.com?user=tobing&theme=whatsapp-light">
+    <img
+      height="165"
+      src="https://streak-stats.demolab.com?user=tobing&theme=whatsapp-light"
+    />
+  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0083B0&height=100&section=footer" />
+</p>
 
