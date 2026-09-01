@@ -10,9 +10,15 @@
 
 <!---
 [![Tobing's GitHub stats](https://github-stats-extended.vercel.app/api?username=tobing&show_icons=true&theme=synthwave)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tobing&hide=php)](https://github.com/stats-organization/github-stats-extended) <br/>
 --->
 
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tobing&hide=php)](https://github.com/stats-organization/github-stats-extended) <br/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=tobing&layout=compact&langs_count=8&card_width=320">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=tobing&layout=compact&langs_count=8&card_width=320"
+  />
+</a>
 
 
